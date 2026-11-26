@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-belajar squash dan merge
+belajar squash dan merge.
