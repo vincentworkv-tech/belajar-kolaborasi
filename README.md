@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-belajar squash dan merge terbaru.!
+Belajar Github sangat dan sungguh menyenangkan. <br>
